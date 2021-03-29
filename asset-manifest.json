@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.cad8a355.chunk.css",
-    "main.js": "/static/js/main.d86b49d1.chunk.js",
-    "main.js.map": "/static/js/main.d86b49d1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ad222b33.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ad222b33.js.map",
-    "static/js/2.f3c527ca.chunk.js": "/static/js/2.f3c527ca.chunk.js",
-    "static/js/2.f3c527ca.chunk.js.map": "/static/js/2.f3c527ca.chunk.js.map",
-    "static/js/3.d7914cbe.chunk.js": "/static/js/3.d7914cbe.chunk.js",
-    "static/js/3.d7914cbe.chunk.js.map": "/static/js/3.d7914cbe.chunk.js.map",
+    "main.js": "/static/js/main.8342fa54.chunk.js",
+    "main.js.map": "/static/js/main.8342fa54.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d5029baa.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d5029baa.js.map",
+    "static/js/2.db948048.chunk.js": "/static/js/2.db948048.chunk.js",
+    "static/js/2.db948048.chunk.js.map": "/static/js/2.db948048.chunk.js.map",
+    "static/js/3.edf1fb2e.chunk.js": "/static/js/3.edf1fb2e.chunk.js",
+    "static/js/3.edf1fb2e.chunk.js.map": "/static/js/3.edf1fb2e.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.cad8a355.chunk.css.map": "/static/css/main.cad8a355.chunk.css.map",
-    "static/js/2.f3c527ca.chunk.js.LICENSE.txt": "/static/js/2.f3c527ca.chunk.js.LICENSE.txt",
+    "static/js/2.db948048.chunk.js.LICENSE.txt": "/static/js/2.db948048.chunk.js.LICENSE.txt",
     "static/media/ButtionA.2c6faa05.png": "/static/media/ButtionA.2c6faa05.png",
     "static/media/Chicken41.b3cc8c7a.png": "/static/media/Chicken41.b3cc8c7a.png",
     "static/media/Chicken42.d6b206c8.png": "/static/media/Chicken42.d6b206c8.png",
@@ -48,12 +48,13 @@
     "static/media/Sosige24.2d2a9cca.png": "/static/media/Sosige24.2d2a9cca.png",
     "static/media/Sosige25.9f53b48b.png": "/static/media/Sosige25.9f53b48b.png",
     "static/media/background.78bba589.png": "/static/media/background.78bba589.png",
-    "static/media/background.cacf8af3.jpg": "/static/media/background.cacf8af3.jpg"
+    "static/media/background.cacf8af3.jpg": "/static/media/background.cacf8af3.jpg",
+    "static/media/sound 1.d686618e.mp3": "/static/media/sound 1.d686618e.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.ad222b33.js",
-    "static/js/2.f3c527ca.chunk.js",
+    "static/js/runtime-main.d5029baa.js",
+    "static/js/2.db948048.chunk.js",
     "static/css/main.cad8a355.chunk.css",
-    "static/js/main.d86b49d1.chunk.js"
+    "static/js/main.8342fa54.chunk.js"
   ]
 }
