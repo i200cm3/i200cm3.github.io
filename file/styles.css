@@ -1,0 +1,217 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1920px;
+	 height: 1080px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1920px;
+	 height: 1080px;
+	 z-index:1;
+} 
+
+ #left 
+{ 
+	 left: 94px; 
+	 top: 420px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 59px;
+	 z-index:2;
+} 
+
+ #right 
+{ 
+	 left: 1762px; 
+	 top: 420px; 
+	 position: absolute; 
+	 width: 59px;
+	 height: 59px;
+	 z-index:3;
+} 
+
+ #packman 
+{ 
+	 left: 559px; 
+	 top: 724px; 
+	 position: absolute; 
+	 width: 47px;
+	 height: 50px;
+	 z-index:4;
+} 
+
+ #packmaneda 
+{ 
+	 left: 620px; 
+	 top: 739px; 
+	 position: absolute; 
+	 width: 19px;
+	 height: 20px;
+	 z-index:5;
+} 
+
+ #pole 
+{ 
+	 left: 253px; 
+	 top: 718px; 
+	 position: absolute; 
+	 width: 134px;
+	 height: 134px;
+	 z-index:6;
+} 
+
+ #X 
+{ 
+	 left: 305px; 
+	 top: 770px; 
+	 position: absolute; 
+	 width: 31px;
+	 height: 31px;
+	 z-index:7;
+} 
+
+ #O 
+{ 
+	 left: 259px; 
+	 top: 724px; 
+	 position: absolute; 
+	 width: 32px;
+	 height: 32px;
+	 z-index:8;
+} 
+
+ #kubok 
+{ 
+	 left: 1082px; 
+	 top: 813px; 
+	 position: absolute; 
+	 width: 170px;
+	 height: 171px;
+	 z-index:9;
+} 
+
+ #star 
+{ 
+	 left: 664px; 
+	 top: 814px; 
+	 position: absolute; 
+	 width: 170px;
+	 height: 171px;
+	 z-index:10;
+} 
+
+ #play 
+{ 
+	 left: 877px; 
+	 top: 813px; 
+	 position: absolute; 
+	 width: 171px;
+	 height: 171px;
+	 z-index:11;
+} 
+
+ #starsel 
+{ 
+	 left: 664px; 
+	 top: 814px; 
+	 position: absolute; 
+	 width: 170px;
+	 height: 171px;
+	 z-index:12;
+} 
+
+ #kuboksel 
+{ 
+	 left: 1082px; 
+	 top: 813px; 
+	 position: absolute; 
+	 width: 170px;
+	 height: 171px;
+	 z-index:13;
+} 
+
+ #playsel 
+{ 
+	 left: 877px; 
+	 top: 813px; 
+	 position: absolute; 
+	 width: 171px;
+	 height: 171px;
+	 z-index:14;
+} 
+
+ #zvuk 
+{ 
+	 left: 28px; 
+	 top: 28px; 
+	 position: absolute; 
+	 width: 76px;
+	 height: 76px;
+	 z-index:15;
+} 
+
+ #zvukoff 
+{ 
+	 left: 67px; 
+	 top: 58px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 17px;
+	 z-index:16;
+} 
+
+ #zvukon 
+{ 
+	 left: 66px; 
+	 top: 55px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 20px;
+	 z-index:17;
+} 
+
+ #zvuksel 
+{ 
+	 left: 28px; 
+	 top: 28px; 
+	 position: absolute; 
+	 width: 76px;
+	 height: 76px;
+	 z-index:18;
+} 
+
+ #zvukoffsel 
+{ 
+	 left: 67px; 
+	 top: 58px; 
+	 position: absolute; 
+	 width: 17px;
+	 height: 17px;
+	 z-index:19;
+} 
+
+ #zvukonsel 
+{ 
+	 left: 66px; 
+	 top: 55px; 
+	 position: absolute; 
+	 width: 16px;
+	 height: 20px;
+	 z-index:20;
+} 
