@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b9922af2.chunk.css",
-    "main.js": "/static/js/main.0cd9c057.chunk.js",
-    "main.js.map": "/static/js/main.0cd9c057.chunk.js.map",
+    "main.js": "/static/js/main.6fed5a66.chunk.js",
+    "main.js.map": "/static/js/main.6fed5a66.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d8530b5a.js",
     "runtime-main.js.map": "/static/js/runtime-main.d8530b5a.js.map",
     "static/js/2.799fc50e.chunk.js": "/static/js/2.799fc50e.chunk.js",
@@ -19,6 +19,14 @@
     "static/media/Cooker2.34efd29c.png": "/static/media/Cooker2.34efd29c.png",
     "static/media/Cooker3.47524a2f.png": "/static/media/Cooker3.47524a2f.png",
     "static/media/Cooker4.66e4bfe1.png": "/static/media/Cooker4.66e4bfe1.png",
+    "static/media/Deaddiverhand1.8038c8a0.png": "/static/media/Deaddiverhand1.8038c8a0.png",
+    "static/media/Deaddiverhand2.84f14796.png": "/static/media/Deaddiverhand2.84f14796.png",
+    "static/media/Deaddiverhand3.f3fc6762.png": "/static/media/Deaddiverhand3.f3fc6762.png",
+    "static/media/Deaddiverhead.1046c3a1.png": "/static/media/Deaddiverhead.1046c3a1.png",
+    "static/media/Deaddiverleg1.fc3b5146.png": "/static/media/Deaddiverleg1.fc3b5146.png",
+    "static/media/Deaddiverleg2.5d12cd9c.png": "/static/media/Deaddiverleg2.5d12cd9c.png",
+    "static/media/Deaddiverleg3.e3604853.png": "/static/media/Deaddiverleg3.e3604853.png",
+    "static/media/Deaddiverleg4.f9c57e3e.png": "/static/media/Deaddiverleg4.f9c57e3e.png",
     "static/media/Display.a482cb0d.png": "/static/media/Display.a482cb0d.png",
     "static/media/Displyay.46f69777.png": "/static/media/Displyay.46f69777.png",
     "static/media/Diver1.3d068972.png": "/static/media/Diver1.3d068972.png",
@@ -89,6 +97,6 @@
     "static/js/runtime-main.d8530b5a.js",
     "static/js/2.799fc50e.chunk.js",
     "static/css/main.b9922af2.chunk.css",
-    "static/js/main.0cd9c057.chunk.js"
+    "static/js/main.6fed5a66.chunk.js"
   ]
 }
