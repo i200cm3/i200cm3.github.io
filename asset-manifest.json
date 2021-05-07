@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.7a682077.chunk.css",
-    "main.js": "/static/js/main.0f193e9a.chunk.js",
-    "main.js.map": "/static/js/main.0f193e9a.chunk.js.map",
+    "main.css": "/static/css/main.df16c214.chunk.css",
+    "main.js": "/static/js/main.e11356e1.chunk.js",
+    "main.js.map": "/static/js/main.e11356e1.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cc33ef9e.js",
     "runtime-main.js.map": "/static/js/runtime-main.cc33ef9e.js.map",
     "static/js/2.8affb80f.chunk.js": "/static/js/2.8affb80f.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.0c76623f.chunk.js": "/static/js/3.0c76623f.chunk.js",
     "static/js/3.0c76623f.chunk.js.map": "/static/js/3.0c76623f.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.7a682077.chunk.css.map": "/static/css/main.7a682077.chunk.css.map",
+    "static/css/main.df16c214.chunk.css.map": "/static/css/main.df16c214.chunk.css.map",
     "static/js/2.8affb80f.chunk.js.LICENSE.txt": "/static/js/2.8affb80f.chunk.js.LICENSE.txt",
     "static/media/ButtionA.6adde35e.png": "/static/media/ButtionA.6adde35e.png",
     "static/media/ButtionB.0dfc6cec.png": "/static/media/ButtionB.0dfc6cec.png",
@@ -96,7 +96,7 @@
   "entrypoints": [
     "static/js/runtime-main.cc33ef9e.js",
     "static/js/2.8affb80f.chunk.js",
-    "static/css/main.7a682077.chunk.css",
-    "static/js/main.0f193e9a.chunk.js"
+    "static/css/main.df16c214.chunk.css",
+    "static/js/main.e11356e1.chunk.js"
   ]
 }
