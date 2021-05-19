@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.2be4b522.chunk.css",
-    "main.js": "/static/js/main.17b85259.chunk.js",
-    "main.js.map": "/static/js/main.17b85259.chunk.js.map",
+    "main.js": "/static/js/main.2c2b0beb.chunk.js",
+    "main.js.map": "/static/js/main.2c2b0beb.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ab460190.js",
     "runtime-main.js.map": "/static/js/runtime-main.ab460190.js.map",
     "static/js/2.6d620b34.chunk.js": "/static/js/2.6d620b34.chunk.js",
@@ -29,7 +29,7 @@
     "static/media/Deaddiverleg4.f9c57e3e.png": "/static/media/Deaddiverleg4.f9c57e3e.png",
     "static/media/DisplayBr.cc35e65b.jpg": "/static/media/DisplayBr.cc35e65b.jpg",
     "static/media/DisplayTO.5e1013ae.jpg": "/static/media/DisplayTO.5e1013ae.jpg",
-    "static/media/DisplyayFC.3d6afa2e.jpg": "/static/media/DisplyayFC.3d6afa2e.jpg",
+    "static/media/DisplyayFC.ef8d2178.jpg": "/static/media/DisplyayFC.ef8d2178.jpg",
     "static/media/Diver1.3d068972.png": "/static/media/Diver1.3d068972.png",
     "static/media/Diver2.6bbfad3a.png": "/static/media/Diver2.6bbfad3a.png",
     "static/media/Diver3.de176a7a.png": "/static/media/Diver3.de176a7a.png",
@@ -95,6 +95,6 @@
     "static/js/runtime-main.ab460190.js",
     "static/js/2.6d620b34.chunk.js",
     "static/css/main.2be4b522.chunk.css",
-    "static/js/main.17b85259.chunk.js"
+    "static/js/main.2c2b0beb.chunk.js"
   ]
 }
